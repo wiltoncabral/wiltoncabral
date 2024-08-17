@@ -3,7 +3,7 @@
 
 
 
-## Meu nome é ____________
+## Meu nome é Wilton
 
 
 - Estou estudando na Alura
@@ -19,7 +19,7 @@ antoniowilton@prof.educacao.sp.gov.br
 [Blog do Wilton](https://wilton01.blogspot.com/)
 
 ![](https://media.tenor.com/FUPAM32pcXEAAAAM/waves.gif)
-- (tenor.com\bd\copy end img)
+
 
 
 
