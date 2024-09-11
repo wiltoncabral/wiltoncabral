@@ -20,6 +20,13 @@ antoniowilton@prof.educacao.sp.gov.br
 
 ![](https://media.tenor.com/FUPAM32pcXEAAAAM/waves.gif)
 
+copiar imagem:
+![](![image](https://github.com/user-attachments/assets/593fc77b-f1ee-44c0-b711-3181ccdb61d7)
+
+copiar endereço da imagem
+![](https://media.tenor.com/g9WRGLK3JSwAAAAM/dog-happy-dog.gif)
+
+
 
 
 
